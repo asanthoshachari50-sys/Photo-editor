@@ -1,0 +1,18 @@
+{
+  "name": "Lumina Gallery",
+  "short_name": "Lumina",
+  "description": "Mobile photo gallery and studio to upload, organize, and edit photos.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

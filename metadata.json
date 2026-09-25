@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Private Gallery",
+  "description": "An elegant private photo gallery to upload, organize into locked albums, and share securely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
